@@ -1,0 +1,32 @@
+.font{
+    font-family: Courgette;
+}
+
+.carousel {
+    margin-bottom: 4rem;
+}
+
+.carousel-item {
+    height: 40rem;
+}
+
+.carousel-img {
+    object-fit: cover;
+    height: 100%;
+    width: 100%;
+}
+
+.card{
+    border: 1px solid;
+}
+
+.icon {
+color: #000;
+margin-left: 3rem;
+margin-right: 3rem;
+font-size: 2em;
+}
+
+.circle-border {
+    border: 1px solid red;
+}
